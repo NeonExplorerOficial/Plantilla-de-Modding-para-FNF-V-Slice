@@ -1,0 +1,62 @@
+import funkin.modding.module.Module;
+import funkin.ui.credits.CreditsState;
+import funkin.ui.credits.CreditsDataHandler;
+import flixel.FlxG;
+import funkin.audio.FunkinSound;
+import funkin.util.ReflectUtil;
+
+// Script originario de Gooey Mix (encontrado en Indie cross xd)
+class CreditosCustom extends Module {
+	public function new() {
+		super("CreditosCustom");
+	}
+
+	public function onCreate(event:ScriptEvent) // Las "categorias" deben escribirse al reves (de abajo hacia arriba) me explico, en este mensaje los creditos mostraran: Nombre, Descripcion y Creadores, a pesar de que este escrito al reves
+	{
+		super.onCreate(event);
+/* Plantila de "encabezado" personalizado
+
+CreditsDataHandler.CREDITS_DATA.entries.unshift({
+				header: "Encabezado",
+				body: [
+					{
+						line:"Texto" 
+						}
+				]
+		    	}); */
+		CreditsDataHandler.CREDITS_DATA.entries.unshift( // for example this one is on the bottom
+			{
+				header: "---------------------------------------",
+				body: [
+					{
+						line: "",
+					}
+				]
+			});
+		CreditsDataHandler.CREDITS_DATA.entries.unshift({
+			header: "",
+			body: [
+				{
+					line: "Fin :v",
+		}
+			]
+		});
+		CreditsDataHandler.CREDITS_DATA.entries.unshift({
+			header: "Creadores",
+			body: [
+				{
+					line: "Nombre",
+				},
+
+			]
+		});
+		CreditsDataHandler.CREDITS_DATA.entries.unshift({
+				header: "Nombre de tu mod",
+				body: [
+					{
+						line:"Descripcion (puedes dejar los "line:" vacios :)" 
+						}
+				]
+		    	});
+			}
+		}

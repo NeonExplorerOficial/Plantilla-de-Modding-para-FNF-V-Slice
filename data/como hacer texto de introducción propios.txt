@@ -1,0 +1,13 @@
+simplemente abre introText.txt y haz lo siguiente
+
+
+
+crea tu mensaje, tomaremos de base "El que lee esto-(salto de linea)-es cool".
+
+escribe un mensaje y usa "--" para hacer un salto de linea, puedes escribir esto por ejemplo:
+
+el que lee esto--es cool
+
+también puedes eliminar el texto que ya está colocado por defecto y usar el tuyo propio :)
+
+¡Puedes añadir cuantos quieras! (no creo que haya límite XD)

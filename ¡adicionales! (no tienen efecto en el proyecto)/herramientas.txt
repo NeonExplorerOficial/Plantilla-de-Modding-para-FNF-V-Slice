@@ -1,0 +1,16 @@
+--------------------------
+# Convertidor de personajes de Psych Engine a V-Slice y viceversa:
+https://github.com/Zyflx/Psych-Character-To-VSlice 
+
+Versión Web (a momento de la creación de este template, solo convierte de Psych a V-Slice) (por una IA a través de las Instrucciones de NeonExplorer xD):
+https://psych-engine-to-v-slice.vercel.app/
+--------------------------
+
+# Convertidor ASTC → PNG y Viceversa
+
+https://astc2png.deaddos.online
+
+--------------------------
+
+# Próximamente...
+

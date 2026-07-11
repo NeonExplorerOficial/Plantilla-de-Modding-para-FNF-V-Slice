@@ -1,0 +1,24 @@
+soy muy perezoso para explicar...pero bueno
+
+Aquí, explicaremos que se puede hacer
+  {
+"version": "1.0.0",
+  "name": "Boyfriend",
+  "renderType": "multisparrow",
+  "assetPath": "characters/BOYFRIEND",
+  "flipX": true
+}
+
+en name, colocas el nombre de tu personaje, en este caso, pues es Boyfriend
+
+en renderType, colocas el tipo de imagen o sprite, me explico
+
+normalmente si solo usa una hoja de sprite, se llama Sparrow, pero en este caso, boyfriend usa varias, por ende, es multisparrow 
+(esto se explica mejor en la documentación)
+
+assetPath es la ubicación dónde están los archivos de tu imagen en la carpeta shared/images/characters,  por ejemplo
+
+Debes mover tu png y xml a la carpeta characters y ahí, ver el nombre para usarlo en el archivo :b
+
+flipX es para voltear la imagen, true para voltearla, falso para...ps no (esto se usa por ejemplo, para cuando quieres que tu personaje mire al lado contrario)
+

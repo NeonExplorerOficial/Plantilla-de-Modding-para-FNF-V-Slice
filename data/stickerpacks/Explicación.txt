@@ -1,0 +1,57 @@
+crea un archivo, por ejemplo, llamado mis-stickers.json (aquí en el template está el "default" del fnf base :D)
+
+asi que explicaremos que hace cada cosa :)
+
+Codigo o texto:
+
+{
+  "version": "1.0.0",
+  "name": "Default",
+  "artist": "PhantomArcade3K",
+  "stickers": [
+    "transitionSwag/stickers-set-1/bfSticker1",
+    "transitionSwag/stickers-set-1/bfSticker2",
+    "transitionSwag/stickers-set-1/bfSticker3"
+  ]
+}
+
+aquí, podemos modificar todo :)
+---------------------
+"version":"1.0.0"
+
+Esta es la versión del paquete de stickers, te recomiendo dejarlo en 1.0.0 ¿por qué lo cambiarias?
+---------------------
+"name":"Default"
+
+Este nombre, es el nombre "interno" o que se utilizará al momento de usar el paquete, puedes cambiarlo a tu preferencia :D
+
+de ejemplo colocaremos NeonSticker
+---------------------
+"Artist":"PhantomArcade3K"
+
+Esto es modificable, lo puedes cambiar para colocar el nombre del artista que hizo los stickers :D
+
+de ejemplo, colocaremos Baxi :3
+---------------------
+"stickers": [
+    "transitionSwag/stickers-set-1/bfSticker1",
+    "transitionSwag/stickers-set-1/bfSticker2",
+    "transitionSwag/stickers-set-1/bfSticker3"
+  ]
+
+¡Lo mas importante!
+
+si vas a shared/images/ui encontraras "transitionSwag", ahi crearas una carpeta con tu nombre favorito
+
+en mi caso, por ninguna razon aparente colocaré "NeoBax","Bax" y "Neon" como stickers y de "nombre de carpeta" fnf :v
+
+quedaría algo así:
+
+"stickers": [
+    "transitionSwag/stickers-fnf/NeoBaxSticker",
+    "transitionSwag/stickers-fnf/BaxSticker",
+    "transitionSwag/stickers-fnf/NeonSticker"
+  ]
+
+(No es obligatorio añadir "sticker" los nombres de carpeta y archivo pueden tener algún nombre que te guste, solo que esté bien escrito tanto en el archivo "JSON" como que los nombres de las carpetas y archivos estén bien)
+---------------------

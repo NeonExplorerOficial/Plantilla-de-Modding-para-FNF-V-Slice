@@ -1,0 +1,16 @@
+{
+    "title": "nombre de tu mod :b",
+    "description": "Descripción epica",
+    "contributors:"[
+{
+"name":"Nombre de Contribuidor",
+"role":"Rol"
+}
+],
+    "author": "El Creador :V",
+    "api_version": "0.8.0",
+    "mod_version": "1.1.1",
+    "license": "CC BY 4.0,MIT"
+}
+
+/*en api_version, coloca la versión de FNF a la que está dirigida tu mod*/

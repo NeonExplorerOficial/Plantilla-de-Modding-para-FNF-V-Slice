@@ -1,0 +1,10 @@
+¡EXPLICACIÓN DE ESTA CARPETA!
+--------------------------
+No me pagan lo suficiente...(no le pagan nada)
+
+Esta carpeta no contiene archivos que el mod necesite obligatoriamente, más bien, solo incluye información adicional, cómo algunas recomendaciones de herramientas, guias y algún que otro recurso del juego o algo recomendado
+
+¡Tambien podrás encontrar este proyecto en GitHub!
+--------------------------
+
+Aquí Encontrarás unas Sub-Carpetas

@@ -1,0 +1,44 @@
+Este Template fue hecho en base a el template en inglés publicado en GameBanana (https://gamebanana.com/tools/16833), también se entregan recursos en los que nos hemos basado; adicionalmente, hemos analizado Mods para ver como implementar funciones o encontrar como "modificarlas" con información que no se encontraba en el template original.
+--------------------------
+Algunos de esos Mods son: 
+
+VS Mario Madness - Chamuxdd0 (mod extraído del video de NIGHTFUNKERS en YouTube)
+
+FNF VS Miku Port V Slice - GamerCB2025
+
+Indie Cross & Gooey Mix
+
+--------------------------
+GUIA O RECURSOS
+
+Documentación Oficial (Inglés): https://funkincrew.github.io/funkin-modding-docs/
+
+Archivos Que Encontraras en el template.
+
+- PRÓXIMAMENTE DOCUMENTACIÓN FANMADE Y TRADUCCIÓN DE LA DOCUMENTACIÓN OFICIAL EN ESPAÑOL -
+
+--------------------------
+CRÉDITOS
+
+Gracias a Todas esas personas ya mencionadas anteriormente y..
+
+Ninjamuffin99, The Funkin Crew y otros, por haber creado este juego.
+
+
+Traductor/Encargado de el template y la "busqueda" de guías y recursos - NeonExplorer (osea el que escribe esto XD)(Y Deepl como app de traducción para frases complicadas XD).
+
+¿Tal Vez Gemini? por explicar como funcionan algunos scripts o cómo hacer algunos xd
+--------------------------
+Adicionales:
+
+• No es necesario dar creditos al autor del template, pero si lo haces...ningún problema supongo xd
+
+• (creo¿?) no debes dar algunos créditos, pero aquí mencionaré a los que por ahora, si deberías darle:
+
+Gracias a Gooey por los Creditos personalizables (también a Indie Cross) (puedes escribir algo como // Script extraido de Gooey Mix, o dejar el que ya está escrito) (¡Esperando respuesta de Gooey!)
+
+• Siéntete libre de usar este template para tu mod, pero hey, pásate de vez en cuando por la página a ver si ha sido actualizado, así tendrás mas cositas 👀
+
+• ¡Beep!
+--------------------------
+FUNEN A NEON :V (@neonexplorer en Discord para información para la funa :v)

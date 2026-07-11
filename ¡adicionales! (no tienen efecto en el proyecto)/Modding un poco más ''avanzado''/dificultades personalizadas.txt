@@ -1,0 +1,12 @@
+¡Hola!
+
+Aquí una guía para aprender a hacer tus propias dificultades :b
+
+Primero necesitamos 2 cosas o más :)
+
+1. Una canción a la que quieres hacerle la difícultad (junto con esto se crea)
+2. Recursos para esta dificultad
+----------------------------------
+Recursos:
+
+• Una imagen para tu nueva dificultad y un xml si es animada

@@ -1,0 +1,62 @@
+import funkin.modding.module.Module;
+import funkin.ui.credits.CreditsState;
+import funkin.ui.credits.CreditsDataHandler;
+import flixel.FlxG;
+import funkin.audio.FunkinSound;
+import funkin.util.ReflectUtil;
+
+// Script originario de Gooey Mix (encontrado en Indie cross xd)
+class CreditosPersonalizables extends Module {
+	public function new() {
+		super("CreditosPersonalizables");
+	}
+
+	public function onCreate(event:ScriptEvent) // The categories have to be reversed due to the unshift sending it to the top
+	{
+		super.onCreate(event);
+/* Plantila de "encabezado" personalizado
+
+CreditsDataHandler.CREDITS_DATA.entries.unshift({
+				header: "Encabezado",
+				body: [
+					{
+						line:"Texto" 
+						}
+				]
+		    	}); */
+		CreditsDataHandler.CREDITS_DATA.entries.unshift( // for example this one is on the bottom
+			{
+				header: "---------------------------------------",
+				body: [
+					{
+						line: "",
+					}
+				]
+			});
+		CreditsDataHandler.CREDITS_DATA.entries.unshift({
+			header: "Tu propio mensaje",
+			body: [
+				{
+					line: "Gracias :)",
+		}
+			]
+		});
+		CreditsDataHandler.CREDITS_DATA.entries.unshift({
+			header: "Creadores,
+			body: [
+				{
+					line: "*introduce nombre epicamente*",
+				},
+
+			]
+		});
+		CreditsDataHandler.CREDITS_DATA.entries.unshift({
+				header: "Nombre de tu mod",
+				body: [
+					{
+						line:"Descripcion (puede estar vacio, solo no elimines los "")" 
+						}
+				]
+		    	});
+			}
+		}

@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "Álbum de Ejemplo",
+  "artists": ["tu"],
+  "albumArtAsset": "freeplay/albumRoll/tuimagen",
+  "albumTitleAsset": "freeplay/albumRoll/tutexto",
+  "albumTitleOffsets": [-22, -3]
+}

@@ -1,0 +1,16 @@
+Aunque (casi ¿creo?) TODO es personalizable, aquí dejaré lo que se que es modificable (información encontrada gracias a los mods) :D
+-------------------
+El Fondo de Menú (Donde están los botones de Story Mode, Freeplay y Creditos) es personalizable; estos son los "archivos" que deberias usar (Información de VS Miku mod):
+
+- menuBG.png
+
+- menuBGMagenta.png
+
+- menuDesat.png
+
+- NOTA: es recomendable solo usar menuBG y menuBGMagenta como nombres, (¿creo habia un menuBGBlue?) ya que el Desat lo puedes usar como una base para hacer un recolor (o para ver las dimensiones) :)
+-------------------
+Si lo deseas, aquí hay una especificación de  cada uno:
+
+menuBG es el fondo común o normal que sale en el menú principal (dónde está Story Mode-Freeplay-Credits)
+MenuBGMagenta Es el fondo que sale cuando en PC das click a alguno de esas opciones, el parpadeo/transición.
