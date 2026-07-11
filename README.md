@@ -1,4 +1,4 @@
-# Plantilla-de-Modding-para-FNF-V-Slice
+# Plantilla de Modding para FNF V-Slice (¡Compatible con FNF Mobile!)
 
 No recuerdo bien de dónde saqué la Plantilla Base en Inglés
 
