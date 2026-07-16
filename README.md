@@ -15,7 +15,7 @@ también, incluye herramientas para modding :0
 
 Pues, solo debes descargar este repositorio :D
 
-Dándole Click a 
+Dándole Click a [Este enlace](https://github.com/NeonExplorerOficial/Plantilla-de-Modding-para-FNF-V-Slice/archive/refs/heads/main.zip)
 
 ## Copyright
 
