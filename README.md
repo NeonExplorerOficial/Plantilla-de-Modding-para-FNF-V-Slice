@@ -19,6 +19,32 @@ Pues, solo debes descargar este repositorio :D
 
 Dándole Click a [Este enlace](https://github.com/NeonExplorerOficial/Plantilla-de-Modding-para-FNF-V-Slice/archive/refs/heads/main.zip)
 
+Más abajo puedes ver que incluye 😺
+
+> ## ¿Qué incluye esta plantilla?
+
+Esta plantilla tiene:
+
+Un script para tener texto custom para los créditos
+
+Una pequeña guía de como añadir Stickers y Texto de introducción propios (¿fácil, no?)
+
+Una explicación para tener...¡UN FONDO PARA EL MENÚ PROPIO!
+
+> ## ¿Que esperar para el futuro?
+
+Tengo un proyecto en progreso, de la documentación oficial siendo traducida al español 👀
+
+También, esperar mejores scripts, y más explicaciones, todo lleva su tiempo, y esto está en progreso 😺
+
+### Fin
+
+¡Gracias por echarle un vistazo o usar esta plantilla, espero la disfrutes, y si así deseas, puedes echarle un ojo a mis canales en YT (no es obligatorio, ya te agradezco si usas esto :D)
+
+[NeonExplorer (Canal dedicado a Friday Night Funkin)](https://youtube.com/@neonexplorerfnf?si=9Vu-VgXpeUZHGT9V)
+
+[NeonExplorer (Canal General)](https://youtube.com/@neonexplorerlegacy?si=e2GsrYLbWT0snfNp)
+
 ## Copyright
 
 Todos los archivos y Código utilizado pertenecen a [The Funkin' Crew Inc](https://github.com/FunkinCrew) (con algunas excepciones, para eso ver Créditos)
