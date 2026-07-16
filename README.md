@@ -1,6 +1,21 @@
 # Plantilla de Modding para FNF V-Slice (¡Compatible con FNF Mobile!)
 
 Plantilla original en inglés: https://gamebanana.com/tools/16833
+# ¡Hola!
+
+¿Has deseado hacer tu mod de Friday Night Funkin' V-Slice, pero no sabes como van ordenadas las carpetas?
+
+pues...aquí te traigo esta plantilla :)
+
+Aunque está en progreso, trae pequeñas guías o instrucciones para hacer algunas cositas extras
+
+también, incluye herramientas para modding :0 
+
+¿Suena bien?
+
+Pues, solo debes descargar este repositorio :D
+
+Dándole Click a 
 
 ## Copyright
 
