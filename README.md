@@ -7,6 +7,8 @@ Plantilla original en inglés: https://gamebanana.com/tools/16833
 
 pues...aquí te traigo esta plantilla :)
 
+![](https://i.postimg.cc/1RqsFBBX/Imagen-pal-template.jpg)
+
 Aunque está en progreso, trae pequeñas guías o instrucciones para hacer algunas cositas extras
 
 también, incluye herramientas para modding :0 
