@@ -4,7 +4,7 @@ Plantilla original en inglés: https://gamebanana.com/tools/16833
 
 ## Copyright
 
-Todos los archivos y Código utilizado pertenecen a [The Funkin' Crew Inc](https://github.com/FunkinCrew)
+Todos los archivos y Código utilizado pertenecen a [The Funkin' Crew Inc](https://github.com/FunkinCrew) (con algunas excepciones, para eso ver Créditos)
 
 > License (From Funkin Repo)
 
